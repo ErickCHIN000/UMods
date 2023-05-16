@@ -1,5 +1,1 @@
-[
-  {"GameName":"Minecraft","DownloadLink":"https://raw.githubusercontent.com/ErickCHIN000/UMods/main/Mod1.dll","ModType":1},
-  {"GameName":"Doom","DownloadLink":"https://raw.githubusercontent.com/ErickCHIN000/UMods/main/Mod2.dll","ModType":0},
-  {"GameName":"Sun Haven","DownloadLink":"https://raw.githubusercontent.com/ErickCHIN000/UMods/main/Mod3.dll","ModType":2}
-]
+[{"GameName":"Minecraft","DownloadLink":"https://raw.githubusercontent.com/ErickCHIN000/UMods/main/Mod1.dll","Description":["This is a mod for Minecraft","This mod adds a new block"],"ModType":1},{"GameName":"Doom","DownloadLink":"https://raw.githubusercontent.com/ErickCHIN000/UMods/main/Mod2.dll","Description":["This is a mod for Doom","This mod adds a new weapon"],"ModType":0},{"GameName":"Sun Haven","DownloadLink":"https://raw.githubusercontent.com/ErickCHIN000/UMods/main/Mod3.dll","Description":["This is a mod for Sun Haven","This mod adds a new NPC"],"ModType":2}]
