@@ -1,1 +1,5 @@
-[{"GameName":"Minecraft","DownloadLink":"https://raw.githubusercontent.com/ErickCHIN000/UMods/main/Mod1.dll","ModType":1},{"GameName":"Doom","DownloadLink":"https://raw.githubusercontent.com/ErickCHIN000/UMods/main/Mod2.dll","ModType":0},{"GameName":"Sun Haven","DownloadLink":"https://raw.githubusercontent.com/ErickCHIN000/UMods/main/Mod3.dll","ModType":2}]
+[
+  {"GameName":"Minecraft","DownloadLink":"https://raw.githubusercontent.com/ErickCHIN000/UMods/main/Mod1.dll","ModType":1},
+  {"GameName":"Doom","DownloadLink":"https://raw.githubusercontent.com/ErickCHIN000/UMods/main/Mod2.dll","ModType":0},
+  {"GameName":"Sun Haven","DownloadLink":"https://raw.githubusercontent.com/ErickCHIN000/UMods/main/Mod3.dll","ModType":2}
+]
