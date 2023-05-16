@@ -1,14 +1,14 @@
 [
   {
-    "GameName": "Mod1",
+    "GameName": "Test Mod",
     "DownloadLink": "https://raw.githubusercontent.com/ErickCHIN000/UMods/main/Mod1.dll"
   },
   {
-    "GameName": "Mod2",
+    "GameName": "Mod 2",
     "DownloadLink": "https://raw.githubusercontent.com/ErickCHIN000/UMods/main/Mod2.dll"
   },
   {
-    "GameName": "Mod3",
+    "GameName": "Test Mod 3",
     "DownloadLink": "https://raw.githubusercontent.com/ErickCHIN000/UMods/main/Mod3.dll"
   }
 ]
