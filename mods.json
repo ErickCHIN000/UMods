@@ -18,5 +18,15 @@
       "This mod adds a new block"
     ],
     "ModType": 1
+  },
+  {
+    "ExecutableName": "doom.exe",
+    "GameName": "Doom",
+    "DownloadLink": "https://raw.githubusercontent.com/ErickCHIN000/UMods/main/Mod3.dll",
+    "Description": [
+      "This is a mod for Doom",
+      "This mod adds a new weapon"
+    ],
+    "ModType": 0
   }
 ]
